@@ -1,7 +1,7 @@
 ## Hello, my name is Ryan Wang.👋
 I am currently pursuing a Master's degree in Finance at National Yang Ming Chiao Tung University.  
 At present, I am interning as a Software Quality Assurance Engineer at Appier, where I work with the Mobile SDK team.  
-![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryan0911&show_icons=true&theme=holi)
+![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryan0911&show_icons=true&theme=holi)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan0911&theme=holi)
 <!--
 **Ryan0911/Ryan0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
