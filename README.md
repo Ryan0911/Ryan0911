@@ -25,8 +25,8 @@
   - Azure certifications: AZ-900 (910/1000), AI-900 (983/1000)
 
 ## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/ryan-wang-wun-hao/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:ryan.wang.wwh@gmail.com)
+- Email: ryan.wang.wwh@gmail.com
+- LinkedIn: https://linkedin.com/in/ryan-wang-wun-hao/
 
 ## GitHub Stats
 <div align="center">
